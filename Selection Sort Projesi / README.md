@@ -1,6 +1,7 @@
 # [22,27,16,2,18,6] -> Insertion Sort
 ### 1) Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 Adım 1: [22, 27, 16, 2, 18, 6]
+
 Adım 2: [22, 27, 16, 2, 18, 6] (22 zaten sıralı olduğu için yer değiştirme yapmıyoruz)
 Adım 3: [16, 22, 27, 2, 18, 6] (16, 22'den küçük olduğu için yer değiştirme yapıyoruz)
 Adım 4: [2, 16, 22, 27, 18, 6] (2, 16'dan küçük olduğu için yer değiştirme yapıyoruz)
